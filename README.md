@@ -1,16 +1,15 @@
-## Hi there 👋
+# ProphetSolAI 🔮  
+**Solana x AI Analysis Project**
 
-<!--
-**ProphetSolAI/prophetsolai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ProphetSolAI kombiniert Meme-Kultur mit echter KI-Utility.  
+Das Projekt bietet KI-basierte Analysen und „Prophezeiungen“ zu Tokens & Smart Contracts auf Solana.
 
-Here are some ideas to get you started:
+### Aktueller Stand (31.10.2025)
+- ✅ API-Gateway läuft  
+- ✅ Frontend mit Test-Button verbunden  
+- ✅ Prophecy-Service antwortet erfolgreich  
+- 🚧 Nächster Schritt: Analyse-Eingabefeld + Anzeige echter Token-Prophezeiungen
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Made with ⚡ by ProphetSolAI
