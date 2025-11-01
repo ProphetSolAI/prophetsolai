@@ -1,15 +1,16 @@
 # ProphetSolAI 🔮  
-**Solana x AI Analysis Project**
+**Solana × AI Analysis Project**
 
-ProphetSolAI kombiniert Meme-Kultur mit echter KI-Utility.  
-Das Projekt bietet KI-basierte Analysen und „Prophezeiungen“ zu Tokens & Smart Contracts auf Solana.
+ProphetSolAI combines meme culture with real AI utility.  
+The project delivers AI-powered insights and “prophecies” for tokens and smart contracts on Solana.
 
-### Aktueller Stand (31.10.2025)
-- ✅ API-Gateway läuft  
-- ✅ Frontend mit Test-Button verbunden  
-- ✅ Prophecy-Service antwortet erfolgreich  
-- 🚧 Nächster Schritt: Analyse-Eingabefeld + Anzeige echter Token-Prophezeiungen
+### 🚀 Current Progress (as of Oct 31, 2025)
+- ✅ API Gateway is running  
+- ✅ Frontend connected with test button  
+- ✅ Prophecy Service responding successfully  
+- 🔮 Next step: Build the analysis input field + display for real token prophecies
 
 ---
 
 Made with ⚡ by ProphetSolAI
+
